@@ -1,4 +1,4 @@
-# Breast-Cancer-Analytics-And-Risk-Prediction
+# Breast Cancer Analytics and Risk Prediction
 
 ## Project Overview
 
